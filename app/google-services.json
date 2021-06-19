@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "987578387136",
+    "firebase_url": "https://postcards-11be9.firebaseio.com",
+    "project_id": "postcards-11be9",
+    "storage_bucket": "postcards-11be9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987578387136:android:a3b5b897b67dff46",
+        "android_client_info": {
+          "package_name": "com.olegro.cristianpostcards"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987578387136-v4h5n7714nev1kfph8j0uo0mlql9n44b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrJbWjpVIq9x7RvXM88UWp2A4iD7x3ifU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987578387136-v4h5n7714nev1kfph8j0uo0mlql9n44b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

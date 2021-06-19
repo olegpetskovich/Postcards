@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Открытки</string>
+
+    <string name="tv_share">Поделиться</string>
+    <string name="tv_favorites">Добавить в избранные</string>
+    <string name="tv_favorite">Избранные</string>
+    <string name="tv_postcards">Открытки</string>
+
+    <string name="btn_popular">Популярные</string>
+    <string name="btn_new">Новые</string>
+
+    <string name="share_picture">Поделиться картинкой</string>
+
+    <string name="toast_no_favorite_postcards">У вас пока нет избранных открыток</string>
+    <string name="toast_internet_on">Для корректной работы приложения включите интернет</string>
+
+    <string name="ads_app_id">ca-app-pub-8788135465417546~5139570177</string>
+    <string name="ad_attribution">Ad</string>
+    <string name="tv_soon">СКОРО</string>
+    <string name="uri_app">http://bit.ly/2Y2aBNn</string>
+    <string name="unknown_error_send_image">Неизвестная ошибка, попробуйте отправить другую открытку</string>
+
+</resources>

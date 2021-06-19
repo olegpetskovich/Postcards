@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F5E668</color>
+    <color name="colorPrimaryDark">#7B1FA2</color>
+    <color name="colorAccent">#9C27B0</color>
+
+    <color name="colorEaster">#FA8B66</color>
+    <color name="colorBirthday">#FCB852</color>
+    <color name="colorDaily">#E0C855</color>
+    <color name="colorChristian">#FC749F</color>
+    <color name="colorChildren">#EB8857</color>
+    <color name="colorFirstMay">#5BD1DF</color>
+    <color name="colorNinthMay">#6D87EC</color>
+    <color name="colorChristmas">#92B965</color>
+    <color name="colorNewYear">#E779FA</color>
+    <color name="colorEighthMarch">#F87FA9</color>
+    <color name="colorValentinesDay">#F78B83</color>
+    <color name="colorMothersDay">#6599FF</color>
+</resources>
